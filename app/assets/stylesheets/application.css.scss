@@ -15,7 +15,6 @@
  * = require modern-business
  * = require bootstrap
  * = require bootstrap.min
- * = require css/font-awesome
  * = require css/font-awesome.min
  * 
  */
@@ -23,6 +22,7 @@
 @import "bootstrap-sprockets";
 @import "bootstrap";
 @import "bootstrap.min";
+@import "font-awesome-sprockets";
 @import "font-awesome";
 
 
